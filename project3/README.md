@@ -87,9 +87,5 @@ driving_qualification_advisor/
 
 ---
 
-## 📨 Feedback & Contributions
 
-Feel free to fork this repository, open issues, or contribute via pull requests.
-
----
 
