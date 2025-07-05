@@ -7,11 +7,11 @@ This is a **Streamlit-based web application** that predicts whether a person is 
 
 ## 📌 Features
 
-- ✅ **Qualification Prediction** using a trained ML model  
-- 📊 **Visual breakdown** of user inputs  
-- 🧾 **PDF Report Download** with prediction and scores  
-- 📈 **Model Insights**: Feature importance & evaluation metrics  
-- 🔍 **Dataset Visualization**: Explore trends by gender, age, race, training, and more  
+- **Qualification Prediction** using a trained ML model  
+-  **Visual breakdown** of user inputs  
+-  **PDF Report Download** with prediction and scores  
+-  **Model Insights**: Feature importance & evaluation metrics  
+-  **Dataset Visualization**: Explore trends by gender, age, race, training, and more  
 
 ---
 
@@ -97,7 +97,3 @@ driving_qualification_advisor/
 Feel free to fork this repository, open issues, or contribute via pull requests.
 
 ---
-
-## 🏁 License
-
-This project is licensed under the [MIT License](LICENSE).
